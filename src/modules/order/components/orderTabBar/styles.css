@@ -1,0 +1,22 @@
+.buttonContainer {
+    color: white;
+    width: 100%;
+}
+
+.button {
+    width: calc(50% - 3px);
+    display: inline-block;
+    cursor: pointer;
+    padding: 10px 0px;
+    background-color: #D8D3D3 !important;
+    color: #6085B3 !important;
+}
+
+.buttonContainer button + button {
+    margin-left: 3px;
+}
+
+.active {
+    background-color: #FFFFFF !important;
+    color: black !important;
+}

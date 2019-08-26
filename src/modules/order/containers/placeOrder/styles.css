@@ -1,0 +1,29 @@
+.search-input{
+    width: 100%;
+    font-family: FontAwesome;
+    padding: 5px 2px;
+    font-size: 14px;
+}
+
+.titleText{
+    width: 100%;
+    font-size: 16px;
+}
+
+.descriptionText{
+    width: 100%;
+    font-size: 12px;
+}
+
+.titleWrap{
+   border-width: 1px;
+   border-bottom: 1px black solid;
+   width: 100%;
+   margin: 10px 0px;
+}
+
+@media only screen and (max-width: 768px) {
+    .column {
+        display: none;
+    }
+}

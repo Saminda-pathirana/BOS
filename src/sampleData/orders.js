@@ -1,0 +1,42 @@
+export default [
+    {
+        portfolioNumber: "123456-1",
+        clientName: "Sam",
+        activeStatus: "Active",
+        RMName: "Alex",
+        bookingCenter: "Singapore",
+        riskProfile: "1-Conservative",
+    },
+    {
+        portfolioNumber: "123456-2",
+        clientName: "Alex",
+        activeStatus: "Active",
+        RMName: "Sam",
+        bookingCenter: "MY",
+        riskProfile: "1-Conservative",
+    },
+    {
+        portfolioNumber: "123456-3",
+        clientName: "Andrews",
+        activeStatus: "Active",
+        RMName: "Dirk",
+        bookingCenter: "HK",
+        riskProfile: "1-Conservative",
+    },
+    {
+        portfolioNumber: "1234567",
+        clientName: "Thomas",
+        activeStatus: "Active",
+        RMName: "Lim",
+        bookingCenter: "HK",
+        riskProfile: "1-Conservative",
+    },
+    {
+        portfolioNumber: "123456-4",
+        clientName: "Sailesh",
+        activeStatus: "Active",
+        RMName: "Sebastian",
+        bookingCenter: "China",
+        riskProfile: "1-Conservative",
+    },
+];
