@@ -67,7 +67,6 @@ class PlaceOrderContainer extends React.PureComponent<OrderProps, OrderState> {
             placeholder="Search..."
             value={searchString}
         />
-        <p className="titleText">{this.props.searchString}</p>
         <Container fluid data-test="listContainer">
         <Row data-test="listRow">
             <Col>Portfolio Number</Col>
